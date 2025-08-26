@@ -13,9 +13,9 @@ const Blog = () => {
 		<div className="space-y-1">
 			<span className="text-xs">April 03, 2021</span>
 			<div className="flex flex-wrap gap-3">
-				<a rel="noopener noreferrer" href="#" className="inline-block px-2 py-1 text-sm font-semibold rounded-md bg-violet-600 dark:text-gray-50">javascript</a>
-				<a rel="noopener noreferrer" href="#" className="inline-block px-2 py-1 text-sm font-semibold rounded-md bg-violet-600 dark:text-gray-50">serverless</a>
-				<a rel="noopener noreferrer" href="#" className="inline-block px-2 py-1 text-sm font-semibold rounded-md bg-violet-600 dark:text-gray-50">aws</a>
+				<a rel="noopener noreferrer" href="#" className="inline-block px-2 py-1 text-sm font-semibold rounded-md bg-violet-600 text-gray-50">javascript</a>
+				<a rel="noopener noreferrer" href="#" className="inline-block px-2 py-1 text-sm font-semibold rounded-md bg-violet-600 text-gray-50">serverless</a>
+				<a rel="noopener noreferrer" href="#" className="inline-block px-2 py-1 text-sm font-semibold rounded-md bg-violet-600 text-gray-50">aws</a>
 			</div>
 		</div>
 	</div>
