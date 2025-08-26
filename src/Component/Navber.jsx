@@ -3,7 +3,7 @@ import { NavLink } from 'react-router';
 
 const Navber = () => {
     return (
-        <div className='bg-blue-700 text-base-200'>
+        <div className=' bg-violet-600 text-base-200'>
             <header className="p-4 dark:bg-gray-100 dark:text-gray-800">
 	<div className="container flex justify-between h-16 mx-auto">
 		<a rel="noopener noreferrer" href="#" aria-label="Back to homepage" className="flex items-center p-2">
